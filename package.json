@@ -1,0 +1,14 @@
+{
+  "name": "PoSCLI",
+  "version": "1.0.0",
+  "description": "This is for CHESS Mobile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nick Minnoe",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
